@@ -1,0 +1,6 @@
+Each glyph should have these specs:
+	X = 20
+	Y = 425
+	Height = 600
+
+For the advance, add 40 to the width rounded to the next multiple of 10
